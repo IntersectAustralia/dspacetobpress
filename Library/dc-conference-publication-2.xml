@@ -1,0 +1,20 @@
+<dublin_core>
+
+<dcvalue element="identifier" qualifier="systemid">103807xPUB366</dcvalue>
+<dcvalue element="description" qualifier="pubcategory">E1 - Conference publications</dcvalue>
+<dcvalue element="date" qualifier="issued">2010</dcvalue>
+<dcvalue element="title" qualifier="publication">Experimental learning and assessment in first-year undergraduate marketing units: an exploratory study</dcvalue>
+<dcvalue element="description" qualifier="internalauthors">1</dcvalue>
+<dcvalue element="description" qualifier="externalauthors">0</dcvalue>
+<dcvalue element="title" qualifier="conferencename">Australian and New Zealand Marketing Academy (ANZMAC) Conference 2010</dcvalue>
+<dcvalue element="publisher" qualifier="none">University of Canterbury, NZ</dcvalue>
+<dcvalue element="description" qualifier="startpage">1</dcvalue>
+<dcvalue element="description" qualifier="endpage">10</dcvalue>
+<dcvalue element="identifier" qualifier="uriarticle">N/A</dcvalue>
+<dcvalue element="description" qualifier="comments">N/A</dcvalue>
+<dcvalue element="description" qualifier="paperref">Yes</dcvalue>
+<dcvalue element="contributor" qualifier="author">VON DER HEIDT, Tania</dcvalue>
+<dcvalue element="contributor" qualifier="department">Southern Cross University Business School (SCUBSDep)</dcvalue>
+<dcvalue element="title" qualifier="none">Experimental learning and assessment in first-year undergraduate marketing units: an exploratory study</dcvalue>
+
+</dublin_core>

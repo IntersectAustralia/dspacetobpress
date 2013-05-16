@@ -1,0 +1,22 @@
+<dublin_core>
+
+<dcvalue element="identifier" qualifier="systemid">101532xPUB303</dcvalue>
+<dcvalue element="description" qualifier="pubcategory">C1 - Refereed journal articles</dcvalue>
+<dcvalue element="date" qualifier="issued">2010</dcvalue>
+<dcvalue element="title" qualifier="publication">Cellular responses of encapsulated gastropod embryos to multiple stressors associated with climate change</dcvalue>
+<dcvalue element="description" qualifier="internalauthors">1</dcvalue>
+<dcvalue element="description" qualifier="externalauthors">3</dcvalue>
+<dcvalue element="title" qualifier="journalname">Journal of Experimental Marine Biology and Ecology</dcvalue>
+<dcvalue element="publisher" qualifier="none">Elsevier Science</dcvalue>
+<dcvalue element="description" qualifier="volume">383</dcvalue>
+<dcvalue element="description" qualifier="issue">2</dcvalue>
+<dcvalue element="description" qualifier="startpage">130</dcvalue>
+<dcvalue element="description" qualifier="endpage">136</dcvalue>
+<dcvalue element="identifier" qualifier="chrScopusID">N/A</dcvalue>
+<dcvalue element="identifier" qualifier="uriconference">http://dx.doi.org/10.1016/j.jembe.2009.12.013</dcvalue>
+<dcvalue element="description" qualifier="comments">N/A</dcvalue>
+<dcvalue element="contributor" qualifier="author">DESCHASEAUX, Elixabeth</dcvalue>
+<dcvalue element="contributor" qualifier="department">School of Environmental Science &amp; Management (ES&amp;MDep)</dcvalue>
+<dcvalue element="title" qualifier="none">Cellular responses of encapsulated gastropod embryos to multiple stressors associated with climate change</dcvalue>
+
+</dublin_core>

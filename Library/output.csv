@@ -1,0 +1,7 @@
+Exception in thread "main" java.io.FileNotFoundException: /Users/joe/Desktop/29_Export_Macquarie 2011-12 Interim Value Report_140041.csv (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:120)
+	at java.io.FileReader.<init>(FileReader.java:55)
+	at Main.Main.main(Main.java:373)
+Based on /Users/joe/Desktop/29_Export_Macquarie 2011-12 Interim Value Report_140041.csv: last modified at  01-Jan-1970
+Date, Hours, Description, Project, eRA , NEW, UWS, SYD, WOL, NSW, MAQ, UTS, SCU, UNE

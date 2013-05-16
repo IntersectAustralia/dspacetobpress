@@ -1,0 +1,28 @@
+<dc:SimpleLiteral xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<dcvalue element="description" qualifier="pubcategory">B1 - Book chapter - commercial publisher</dcvalue>
+<dcvalue element="date" qualifier="issued">2010</dcvalue>
+<dcvalue element="title" qualifier="publication">Blended learning in a creative writing program: lessons learned from a two-year pilot study</dcvalue>
+<dcvalue element="title" qualifier="none">Blended learning in a creative writing program: lessons learned from a two-year pilot study</dcvalue>
+<dcvalue element="title" qualifier="book">Cases on online and blended learning technologies in higher education: concepts and practices</dcvalue>
+<dcvalue element="identifier" qualifier="isbn">9781605668802</dcvalue>
+<dcvalue element="publisher" qualifier="none">Igi Global</dcvalue>
+<dcvalue element="contributor" qualifier="author">CONWAY-HERRON, Janie</dcvalue>
+<dcvalue element="contributor" qualifier="department">School of Arts &amp; Social Sciences (SASSDep)</dcvalue>
+<dcvalue element="contributor" qualifier="author">MORGAN, Christopher (Chris)</dcvalue>
+<dcvalue element="contributor" qualifier="department">School of Education (EdDep)</dcvalue>
+<dcvalue element="description" qualifier="startpage">63</dcvalue>
+<dcvalue element="description" qualifier="endpage">75</dcvalue>
+
+
+<dcvalue element="description" qualifier="volume">N/A</dcvalue>
+<dcvalue element="description" qualifier="pagenumbers">xxii, 323 p.</dcvalue>
+<dcvalue element="description" qualifier="speccalc">yes</dcvalue>
+
+
+
+<dcvalue element="identifier" qualifier="systemid">101532xPUB309</dcvalue>
+<dcvalue element="description" qualifier="internalauthors">2</dcvalue>
+<dcvalue element="description" qualifier="externalauthors">0</dcvalue>
+
+</dc:SimpleLiteral>

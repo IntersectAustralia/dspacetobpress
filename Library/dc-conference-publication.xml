@@ -1,0 +1,25 @@
+<dublin_core>
+
+<dcvalue element="identifier" qualifier="systemid">101532xPUB308</dcvalue>
+<dcvalue element="description" qualifier="pubcategory">E1 - Conference publications</dcvalue>
+<dcvalue element="date" qualifier="issued">2010</dcvalue>
+<dcvalue element="title" qualifier="publication">Media supported problem-based learning and role-play in clinical nurse education</dcvalue>
+<dcvalue element="description" qualifier="internalauthors">2</dcvalue>
+<dcvalue element="description" qualifier="externalauthors">0</dcvalue>
+<dcvalue element="title" qualifier="conferencename">Australian Society for Computers in Learning in Tertiary Education (ASCILITE) Conference (27th)</dcvalue>
+<dcvalue element="publisher" qualifier="none">The University of Queensland</dcvalue>
+<dcvalue element="identifier" qualifier="isbn">9781742720166</dcvalue>
+<dcvalue element="description" qualifier="volume">N/A</dcvalue>
+<dcvalue element="description" qualifier="startpage">1056</dcvalue>
+<dcvalue element="description" qualifier="endpage">1067</dcvalue>
+<dcvalue element="description" qualifier="pagenumbers">N/A</dcvalue>
+<dcvalue element="title" qualifier="proceedings">Curriculum, technology and transformation for an unkown future: proceedings ASCILITE Sydney 2010</dcvalue>
+<dcvalue element="identifier" qualifier="uriarticle">http://www.ascilite.org.au/conferences/sydney10/procs/Whitehair-full.pdf</dcvalue>
+<dcvalue element="description" qualifier="comments">N/A</dcvalue>
+<dcvalue element="contributor" qualifier="author">O'REILLY, Margaret (Meg)</dcvalue>
+<dcvalue element="contributor" qualifier="department">Teaching &amp; Learning (T&amp;L)</dcvalue>
+<dcvalue element="contributor" qualifier="author">WHITEHAIR, Leeann</dcvalue>
+<dcvalue element="contributor" qualifier="department">School of Health &amp; Human Sciences (HHSDep)</dcvalue>
+<dcvalue element="title" qualifier="none">Media supported problem-based learning and role-play in clinical nurse education</dcvalue>
+
+</dublin_core>

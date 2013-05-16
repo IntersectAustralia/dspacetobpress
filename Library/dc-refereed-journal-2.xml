@@ -1,0 +1,24 @@
+<dublin_core>
+
+<dcvalue element="identifier" qualifier="systemid">101532xPUB304</dcvalue>
+<dcvalue element="description" qualifier="pubcategory">C1 - Refereed journal articles</dcvalue>
+<dcvalue element="date" qualifier="issued">2010</dcvalue>
+<dcvalue element="title" qualifier="publication">Quantifying nitrogen process rates in a constructed wetland using natural abundance stable isotope signatures and stable isotope amendment experiments</dcvalue>
+<dcvalue element="description" qualifier="internalauthors">2</dcvalue>
+<dcvalue element="description" qualifier="externalauthors">0</dcvalue>
+<dcvalue element="title" qualifier="journalname">Journal of Environmental Quality</dcvalue>
+<dcvalue element="publisher" qualifier="none">American Society of Agronomy</dcvalue>
+<dcvalue element="description" qualifier="volume">39</dcvalue>
+<dcvalue element="description" qualifier="issue">6</dcvalue>
+<dcvalue element="description" qualifier="startpage">2191</dcvalue>
+<dcvalue element="description" qualifier="endpage">2199</dcvalue>
+<dcvalue element="identifier" qualifier="chrScopusID">2-s2.0-78650800393</dcvalue>
+<dcvalue element="identifier" qualifier="uriconference">10.2134/jeq2010.0067</dcvalue>
+<dcvalue element="description" qualifier="comments">N/A</dcvalue>
+<dcvalue element="contributor" qualifier="author">ERLER, Dirk</dcvalue>
+<dcvalue element="contributor" qualifier="department">School of Environmental Science &amp; Management (ES&amp;MDep)</dcvalue>
+<dcvalue element="contributor" qualifier="author">EYRE, Bradley David</dcvalue>
+<dcvalue element="contributor" qualifier="department">School of Environmental Science &amp; Management (ES&amp;MDep)</dcvalue>
+<dcvalue element="title" qualifier="none">Quantifying nitrogen process rates in a constructed wetland using natural abundance stable isotope signatures and stable isotope amendment experiments</dcvalue>
+
+</dublin_core>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='http://www.bepress.com/document-import.xsd'>
+	<document>
+		<title>Cellular responses of encapsulated gastropod embryos to multiple stressors associated with climate change</title>
+<!-- Publication date must be entered in YYYY-MM-DD format -->
+		<publication-date>2010-01-01</publication-date>		
+<!-- publication_date_date_format field sets the display format for the date. Enter 'YYYY' to display only the year -->
+		<publication_date_date_format>YYYY</publication_date_date_format>
+<!-- add an authors field for each additional author -->
+		<authors>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Ecochemistry Laboratory Institute for Applied Ecology, University of Canberra,</institution>
+				<lname>Deschaseaux</lname>
+				<fname>E</fname>
+				<mname>SM</mname>
+				<suffix></suffix>
+			</author>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Ecochemistry Laboratory Institute for Applied Ecology, University of Canberra,</institution>
+				<lname>Taylor</lname>
+				<fname>A</fname>
+				<mname>M</mname>
+				<suffix></suffix>
+			</author>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Ecochemistry Laboratory Institute for Applied Ecology, University of Canberra</institution>
+				<lname>Maher</lname>
+				<fname>William</fname>
+				<mname>A</mname>
+				<suffix></suffix>
+			</author>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>School of Biological Sciences, University of Wollongong</institution>
+				<lname>Davis</lname>
+				<fname>A</fname>
+				<mname>R</mname>
+				<suffix></suffix>
+			</author>
+		</authors>		
+		
+<!-- Remove comments and add elements below to tag articles with bepress specific discipline taxonomy - see http://www.bepress.com/disciplines.xsd for valid values
+		<disciplines>
+			<discipline></discipline> 
+		</disciplines> -->
+		
+<!-- Add keyword field for each additional keyword -->		
+		<keywords>
+			<keyword>Antioxidant</keyword>
+			<keyword>climate change</keyword> 
+			<keyword>gastropods</keyword> 
+			<keyword>mortality</keyword> 
+			<keyword>salinity</keyword> 
+			<keyword>temperature</keyword> 
+		</keywords>
+<!-- Abstract field -->			
+		<abstract>&lt;p&gt;As a consequence of global warming, environmental conditions such as temperature and salinity are likely to change in near-shore waters. Early life history phases are expected to be particularly vulnerable to changes in these abiotic variables. To evaluate the effect of multiple stressors on the responses ofinvertebrate larvae, to conditions anticipated under scenarios of climate change, we examined the cellular responses of embryos of three common rocky intertidal gastropod species to temperature and salinity changes. Encapsulated embryos of each species were exposed for 72 h to six combinations of ecologically realistic temperature and salinity levels (22&#176; and 30 &#176;C and 25, 35 and 45 ppt). Embryonic mortality and the responses of two biomarkers: total antioxidant capacity and lipid peroxidation, were then determined. We predicted that those organisms exposed to physiologically stressful levels of the combined stressors would show the strongest responses. The general trend was that both extremes of salinity (25 and 45 ppt) and high temperature (30 &#176;C) negatively affected the embryos studied inducing oxidative stress and increasing lipidperoxidation, leading to increased embryonic mortality. The intensity of the response remained species-specific, with no clear pattern established as to which species was the most sensitive to salinity and temperature changes. Consequently, climate change induced temperature and salinity changes do exert molecular and physiological effects on early life stages of rocky shore gastropods, however, response to these stressors is species-specific.&lt;/p&gt;</abstract>
+<!-- The comments field can be used for additional metadata details -->	
+		<comments></comments>
+<!-- Start Page -->
+		<fpage>130</fpage>
+<!-- End Page -->
+		<lpage>136</lpage>
+<!-- Link to the fulltext PDF -->
+		<fulltext-url></fulltext-url>
+<!-- The valid document types can be easily adjusted for a particular series. The defaults are: article, bookreview, conference, dissertation, editorial, letter, response, news -->		
+		<document-type>article</document-type>
+		<department></department>
+		<identifier></identifier>		
+		<fields>
+	<!-- Journal Name -->
+			<field type="string" name="source_publication">
+				<value>Journal of Experimental Marine Biology and Ecology</value>
+			</field>	
+	<!-- Volume Number -->
+			<field type="string" name="volnum">
+				<value>383</value>
+			</field>
+	<!-- Issue Number -->
+			<field type="string" name="issnum">
+				<value>2</value>
+			</field>	
+	<!-- Mark to indicate whether an openurl should be created for the item -->		
+			<field type="boolean" name="create_openurl">
+				<value>true</value> 
+			</field>
+	<!-- An embargo date can be set for each item in the series -->		
+			<field type="date" name="embargo_date">
+				<value>2011-06-16T00:00:00-07:00</value> 
+			</field>
+	<!-- The hca_pubs series has two items on the submission form to indicate whether the submission was peer-reviewed -->			
+			<field type="boolean" name="peer_reviewed">
+				<value>true</value> 
+			</field>
+			<field type="string" name="reviewed">
+				<value>Peer-Reviewed</value> 
+			</field>
+	<!-- Custom Citation field -->		
+			<field type="string" name="custom_citation">
+				<value>&lt;p&gt;Deschaseaux, ESM, Taylor, AM, Maher, WA &amp; Davis, AR 2010, &apos;Cellular responses of encapsulated gastropod embryos to multiple stressors associated with climate change&apos;, &lt;em&gt;Journal of Experimental Marine Biology and Ecology&lt;/em&gt;, vol. 383, no. 2, pp. 130-136.&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/523011/description#description"&gt;Journal of Experimental Marine Biology and Ecology&lt;/a&gt; &lt;/em&gt; Publisher&apos;s version of article available at &lt;a href="http://dx.doi.org/10.1016/j.jembe.2009.12.013"&gt;http://dx.doi.org/10.1016/j.jembe.2009.12.013&lt;/a&gt; &lt;/p&gt;</value>
+			</field>	
+		</fields>
+	</document>
+	
+	<document>
+		<title>Media supported problem-based learning and role-play in clinical nurse education</title>
+<!-- Publication date must be entered in YYYY-MM-DD format -->
+		<publication-date>2010-01-01</publication-date>		
+<!-- publication_date_date_format field sets the display format for the date. Enter 'YYYY' to display only the year -->
+		<publication_date_date_format>YYYY</publication_date_date_format>
+<!-- add an authors field for each additional author -->
+		<authors>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Southern Cross University</institution>
+				<lname>O'Reilly</lname>
+				<fname>Meg</fname>
+				<mname></mname>
+				<suffix></suffix>
+			</author>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Southern Cross University</institution>
+				<lname>Whitehair</lname>
+				<fname>Leeann</fname>
+				<mname></mname>
+				<suffix></suffix>
+			</author>
+		</authors>		
+		
+<!-- Remove comments and add elements below to tag articles with bepress specific discipline taxonomy - see http://www.bepress.com/disciplines.xsd for valid values
+		<disciplines>
+			<discipline></discipline> 
+		</disciplines> -->
+		
+<!-- Add keyword field for each additional keyword -->		
+		<keywords>
+			<keyword>Problem based learning</keyword> 
+			<keyword>undergraduate nursing education</keyword> 
+			<keyword>clinical skills</keyword> 
+		</keywords>
+<!-- Abstract field -->			
+		<abstract>&lt;p&gt;The introduction of a problem-based learning role-play into an undergraduate nursing degree has motivated and inspired students to take an active approach to learning. Practising the role of a registered nurse and working in a simulated patient environment were seen as valid preparation for future practice. Collaborating with peers and tutors provided students with confidence to solve authentic patient problems and motivated them to accept responsibility for preparation and active participation during lab sessions. Inclusion of digital recordings of expert demonstrations of clinical skills significantly enhanced students&apos; skills development. Students&apos; future colleagues working in health care, noted their preparedness, high level of confidence and ability to transfer theory and skills to the real world of nursing.&lt;/p&gt;</abstract>
+<!-- The comments field can be used for additional metadata details -->	
+		<comments></comments>
+<!-- Start Page -->
+		<fpage>1056</fpage>
+<!-- End Page -->
+		<lpage>1067</lpage>
+<!-- Link to the fulltext PDF -->
+		<fulltext-url>http://www.ascilite.org.au/conferences/sydney10/procs/Whitehair-full.pdf</fulltext-url>
+<!-- The valid document types can be easily adjusted for a particular series. The defaults are: article, bookreview, conference, dissertation, editorial, letter, response, news -->		
+		<document-type>presentation</document-type>
+		<department></department>
+		<identifier></identifier>		
+		<fields>
+	<!-- Journal Name -->
+			<field type="string" name="source_publication">
+				<value>Curriculum, technology and transformation for an unknown future: proceedings ASCILITE Sydney 2010: Australian Society for Computers in Learning in Tertiary Education (ASCILITE) Conference (27th)</value>
+			</field>	
+	<!-- Publisher -->			
+			<field type="string" name="publisher">
+				<value>The University of Queensland</value>
+			</field>	
+	<!-- An embargo date can be set for each item in the series -->		
+			<field type="date" name="embargo_date">
+				<value>2011-06-16T00:00:00-07:00</value> 
+			</field>
+	<!-- Custom Citation field -->		
+			<field type="string" name="custom_citation">
+				<value>&lt;p&gt;O&apos;Reilly, M, Whitehair, L 2010, &apos;Media supported problem-based learning and role-play in clinical nurse education&apos;, in &lt;em&gt;Curriculum, technology and transformation for an unknown future: proceedings ASCILITE Sydney 2010: Australian Society for Computers in Learning in Tertiary Education (ASCILITE) Conference (27th)&lt;/em&gt;, Sydney, NSW, 5-8 December, University of Queensland, Brisbane, Qld., pp. 1056-1067. ISBN: 9781742720166&lt;/p&gt;</value> 
+			</field>
+	<!-- City -->		
+			<field type="string" name="city">
+				<value>Brisbane, Qld.</value> 
+			</field>
+	<!-- ISBN -->
+			<field type="string" name="isbn">
+				<value>9781742720166</value> 
+			</field>
+	<!-- Location -->
+			<field type="string" name="location">
+				<value>Sydney, NSW, 5-8 December</value> 
+			</field>
+		</fields>
+	</document>	
+	
+		<document>
+		<title>Quantifying nitrogen process rates in a constructed wetland using natural abundance stable isotope signatures and stable isotope amendment experiments</title>
+<!-- Publication date must be entered in YYYY-MM-DD format -->
+		<publication-date>2010-01-01</publication-date>		
+<!-- publication_date_date_format field sets the display format for the date. Enter 'YYYY' to display only the year -->
+		<publication_date_date_format>YYYY</publication_date_date_format>
+<!-- add an authors field for each additional author -->
+		<authors>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Centre for Coastal Biogeochemistry, School of Environmental Science and Management,Southern Cross University</institution>
+				<lname>Erler</lname>
+				<fname>Dirk</fname>
+				<mname>V</mname>
+				<suffix></suffix>
+			</author>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Centre for Coastal Biogeochemistry, School of Environmental Science and Management, Southern Cross University</institution>
+				<lname>Eyre</lname>
+				<fname>Bradley</fname>
+				<mname>D</mname>
+				<suffix></suffix>
+			</author>
+		</authors>		
+		
+<!-- Remove comments and add elements below to tag articles with bepress specific discipline taxonomy - see http://www.bepress.com/disciplines.xsd for valid values
+		<disciplines>
+			<discipline></discipline> 
+		</disciplines> -->
+		
+<!-- Add keyword field for each additional keyword -->		
+		<keywords>
+			<keyword></keyword> 
+		</keywords>
+<!-- Abstract field -->			
+		<abstract>&lt;p&gt;This study describes the spatial variability in nitrogen (N) transformation within a constructed wetland (CW) treating domestic effluent. Nitrogen cycling within the CW was driven by settlement and mineralization of particulate organic nitrogen and uptake of NO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;-&lt;/sup&gt;The concentration of NO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;-&lt;/sup&gt; was found to decrease, as the d&lt;sup&gt;15&lt;/sup&gt;N-NO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;-&lt;/sup&gt; signature increased, as water flowed through the CW, allowing denitrification rates to be estimated on the basis of the degree of fractionation of d&lt;sup&gt;15&lt;/sup&gt;N-NO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;-&lt;/sup&gt; Estimates of denitrification hinged on the determination of a net isotope effect (?), which was influenced by processes that enrich or deplete &lt;sup&gt;15&lt;/sup&gt;NO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;-&lt;/sup&gt; (e.g., nitrification), as well as the rate constants associated with the different processes involved in denitrification (i.e., diffusion and enzyme activity). The influence of nitrification on ? was quantified; however, it remained unclear how ? varied due to variability in denitrification rate constants. A series of stable isotope amendment experiments was used to further constrain the value of ? and calculate rates of denitrification, and nitrification, within the wetland. The maximum calculated rate of denitrification was 956 &#177; 187 &#956;mol N m&lt;sup&gt;-2&lt;/sup&gt; h&lt;sup&gt;-1&lt;/sup&gt;, and the maximum rate of nitrification was 182 &#177; 28.9 &#956;mol N m&lt;sup&gt;-2&lt;/sup&gt; h&lt;sup&gt;-1&lt;/sup&gt; Uptake of NO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;-&lt;/sup&gt; was quantitatively more important than denitrification throughout the wetland. Rates of N cycling varied spatially within the wetland, with denitrification dominating in the downstream deoxygenated region of the wetland. Studies that use fractionation of N to derive rate estimates must exercise caution when interpreting the net isotope effect. We suggest a sampling procedure for future natural abundance studies that may help improve the accuracy of N cycling rate estimates.&lt;/p&gt;</abstract>
+<!-- The comments field can be used for additional metadata details -->	
+		<comments></comments>
+<!-- Start Page -->
+		<fpage>2191</fpage>
+<!-- End Page -->
+		<lpage>2199</lpage>
+<!-- Link to the fulltext PDF -->
+		<fulltext-url></fulltext-url>
+<!-- The valid document types can be easily adjusted for a particular series. The defaults are: article, bookreview, conference, dissertation, editorial, letter, response, news -->		
+		<document-type>article</document-type>
+		<department>eirc</department>
+		<identifier></identifier>		
+		<fields>
+	<!-- Journal Name -->
+			<field type="string" name="source_publication">
+				<value>Journal of Environmental Quality</value>
+			</field>	
+	<!-- Volume Number -->
+			<field type="string" name="volnum">
+				<value>39</value>
+			</field>
+	<!-- Issue Number -->
+			<field type="string" name="issnum">
+				<value>6</value>
+			</field>
+	<!-- Mark to indicate whether an openurl should be created for the item -->		
+			<field type="boolean" name="create_openurl">
+				<value>true</value> 
+			</field>
+	<!-- An embargo date can be set for each item in the series -->		
+			<field type="date" name="embargo_date">
+				<value>2011-06-16T00:00:00-07:00</value> 
+			</field>
+	<!-- The hca_pubs series has two items on the submission form to indicate whether the submission was peer-reviewed -->			
+			<field type="boolean" name="peer_reviewed">
+				<value>true</value> 
+			</field>
+			<field type="string" name="reviewed">
+				<value>Peer-Reviewed</value> 
+			</field>
+	<!-- Custom Citation field -->		
+			<field type="string" name="custom_citation">
+				<value>&lt;p&gt;Eyre, BD &amp; Erler, DV 2010, &apos;Quantifying nitrogen process rates in a constructed wetland using natural abundance stable isotope signatures and stable isotope amendment experiments&apos;, &lt;em&gt;Journal of Environmental Quality&lt;/em&gt;, vol. 39, no. 6, pp. 2191-2199.&lt;/p&gt; &lt;p&gt;Publisher&apos;s version of article is available at &lt;a href="http://dx.doi.org/10.2134/jeq2010.0067"&gt;http://dx.doi.org/10.2134/jeq2010.0067&lt;/a&gt; &lt;/p&gt;</value> 
+			</field>
+		</fields>
+	</document>	
+	
+	<document>
+		<title>Blended learning in a creative writing program: lessons learned from a two-year pilot study</title>
+<!-- Publication date must be entered in YYYY-MM-DD format -->
+		<publication-date>2010-01-01</publication-date>		
+<!-- publication_date_date_format field sets the display format for the date. Enter 'YYYY' to display only the year -->
+		<publication_date_date_format>YYYY</publication_date_date_format>
+<!-- add an authors field for each additional author -->
+		<authors>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Southern Cross University</institution>
+				<lname>Conway-Herron</lname>
+				<fname>Janie</fname>
+				<mname></mname>
+				<suffix></suffix>
+			</author>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Southern Cross University</institution>
+				<lname>Morgan</lname>
+				<fname>Christopher</fname>
+				<mname></mname>
+				<suffix></suffix>
+			</author>
+		</authors>		
+		
+<!-- Remove comments and add elements below to tag articles with bepress specific discipline taxonomy - see http://www.bepress.com/disciplines.xsd for valid values
+		<disciplines>
+			<discipline></discipline> 
+		</disciplines> -->
+		
+<!-- Add keyword field for each additional keyword -->		
+		<keywords>
+			<keyword></keyword> 
+		</keywords>
+<!-- Abstract field -->			
+		<abstract>&lt;p&gt;Conway-Herron, J &amp; Morgan, C 2010, &apos;Blended learning in a creative writing program: lessons learned from a two-year pilot study&apos;, in Y Inoue (ed.), &lt;em&gt;Cases on online and blended learning technologies in higher education: concepts and practices&lt;/em&gt;, IGI Global, Hershey, Pennsylvania, pp. 63-75. ISBN: 9781605668802.&lt;/p&gt;</abstract>
+<!-- The comments field can be used for additional metadata details -->	
+		<comments></comments>
+<!-- Start Page -->
+		<fpage>63</fpage>
+<!-- End Page -->
+		<lpage>75</lpage>
+<!-- Link to the fulltext PDF -->
+		<fulltext-url></fulltext-url>
+<!-- The valid document types can be easily adjusted for a particular series. The defaults are: article, bookreview, conference, dissertation, editorial, letter, response, news -->		
+		<document-type>book_contribution</document-type>
+		<department></department>
+		<identifier></identifier>		
+		<fields>
+	<!-- Journal Name -->
+			<field type="string" name="source_publication">
+				<value>Cases on online and blended learning technologies in higher education: concepts and practices</value>
+			</field>	
+	<!-- Publisher -->			
+			<field type="string" name="publisher">
+				<value>IGI Global</value>
+			</field>	
+	<!-- An embargo date can be set for each item in the series -->		
+			<field type="date" name="embargo_date">
+				<value>2011-06-16T00:00:00-07:00</value> 
+			</field>
+	<!-- City -->		
+			<field type="string" name="city">
+				<value>Hershey, Pennsylvania</value> 
+			</field>
+	<!-- ISBN -->
+			<field type="string" name="isbn">
+				<value>9781605668802</value> 
+			</field>
+	<!-- Editor -->
+		<field type="string" name="editor">
+				<value>Y Inoue</value> 
+		</field>
+		</fields>
+	</document>	
+	
+	<document>
+		<title>Experimental learning and assessment in first-year undergraduate marketing units: an exploratory study</title>
+<!-- Publication date must be entered in YYYY-MM-DD format -->
+		<publication-date>2010-01-01</publication-date>		
+<!-- publication_date_date_format field sets the display format for the date. Enter 'YYYY' to display only the year -->
+		<publication_date_date_format>YYYY</publication_date_date_format>
+<!-- add an authors field for each additional author -->
+		<authors>
+			<author xsi:type='individual'>
+				<email></email>
+				<institution>Southern Cross University</institution>
+				<lname>von der Heidt</lname>
+				<fname>Tania</fname>
+				<mname></mname>
+				<suffix></suffix>
+			</author>
+		</authors>		
+		
+<!-- Remove comments and add elements below to tag articles with bepress specific discipline taxonomy - see http://www.bepress.com/disciplines.xsd for valid values
+		<disciplines>
+			<discipline></discipline> 
+		</disciplines> -->
+		
+<!-- Add keyword field for each additional keyword -->		
+		<keywords>
+			<keyword></keyword> 
+		</keywords>
+<!-- Abstract field -->			
+		<abstract></abstract>
+<!-- The comments field can be used for additional metadata details -->	
+		<comments></comments>
+<!-- Link to the fulltext PDF -->
+		<fulltext-url></fulltext-url>
+<!-- The valid document types can be easily adjusted for a particular series. The defaults are: article, bookreview, conference, dissertation, editorial, letter, response, news -->		
+		<document-type>presentation</document-type>
+		<department></department>
+		<identifier></identifier>		
+		<fields>
+	<!-- Journal Name -->
+			<field type="string" name="source_publication">
+				<value>Australian and New Zealand Marketing Academy (ANZMAC) Conference</value>
+			</field>	
+	<!-- An embargo date can be set for each item in the series -->		
+			<field type="date" name="embargo_date">
+				<value>2011-06-16T00:00:00-07:00</value> 
+			</field>
+	<!-- The hca_pubs series has two items on the submission form to indicate whether the submission was peer-reviewed -->			
+			<field type="boolean" name="peer_reviewed">
+				<value>true</value> 
+			</field>
+			<field type="string" name="reviewed">
+				<value>Peer-Reviewed</value> 
+			</field>
+	<!-- Custom Citation field -->		
+			<field type="string" name="custom_citation">
+				<value>&lt;p&gt;von der Heidt, T 2010, &apos;Experimental learning and assessment in first-year undergraduate marketing units: an exploratory study&apos;, paper presented to the Australian and New Zealand Marketing Academy (ANZMAC) Conference, Christchurch, NZ, 29 November - 1 December&lt;/p&gt;</value> 
+			</field>
+	<!-- Location -->
+			<field type="string" name="location">
+				<value>Christchurch, NZ, 29 November - 1 December</value> 
+			</field>
+		</fields>
+	</document>		
+</documents>
+
+
+
+
